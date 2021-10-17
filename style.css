@@ -1,0 +1,10 @@
+@charest "UTF-8";
+body {
+    background-color:aliceblue;
+}
+h1 {
+    color: #752100
+}
+p{ 
+    font-size: 20px;
+}
