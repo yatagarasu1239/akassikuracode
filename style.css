@@ -7,6 +7,11 @@ body {
     background-color:aliceblue;
     font-family: 'Noto Serif JP', serif;
 }
+.logo {
+width: 210px;
+margin-top: 14px;
+
+}
 h1 {
     color: #752100
 }
