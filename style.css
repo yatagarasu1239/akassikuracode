@@ -1,6 +1,11 @@
 @charest "UTF-8";
+/*共通部分*/
+html{
+    font-size: 100%;
+}
 body {
     background-color:aliceblue;
+    font-family: 'Noto Serif JP', serif;
 }
 h1 {
     color: #752100
