@@ -1,4 +1,4 @@
-@charest "UTF-8";
+@charset "UTF-8";
 /*共通部分*/
 html{
     font-size: 100%;
@@ -10,7 +10,6 @@ body {
 .logo {
 width: 210px;
 margin-top: 14px;
-
 }
 h1 {
     color: #752100
