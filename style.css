@@ -8,6 +8,13 @@ body {
     font-family: 'Noto Serif JP', serif;
     margin: 0px;
 }
+
+.main-nav{
+    font-size:1.25;
+    text-transform: uppercase;
+    margin-top: 34px;
+    list-style: none;
+  }
 .logo {
     width: 130px;
     margin-top: 0px;
