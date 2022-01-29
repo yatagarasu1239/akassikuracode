@@ -16,6 +16,7 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+
 /*記事部分*/
 article {
     width: 74%;
@@ -23,6 +24,12 @@ article {
 /*サイドバー*/
 aside {
     width: 22%;
+}
+
+.home-content{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
 }
 
 /*フッター*/
