@@ -36,8 +36,8 @@ aside {
     font-size: 0.875rem;
     background: #fff;
     color:black;
-    border-radius: 5px;
-    padding: 9px 18px;
+    border-radius: 3px;
+    padding: 4px 10px;
 }
 .button:hover {
     background:#808080;
