@@ -16,6 +16,14 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+/*記事部分*/
+article {
+    width: 74%;
+}
+/*サイドバー*/
+aside {
+    width: 22%;
+}
 
 
 .main-nav{
