@@ -61,11 +61,11 @@ font-size: 0.875rem;
     font-size:1.25;
     width: 100px;
     text-transform: uppercase;
+    border-width: medium;
+    border-style: solid;
     margin-top: 0px;
     list-style: none;
     text-align: center;
-    border-width: medium;
-    border-style: solid;
   }
 
 .logo {
