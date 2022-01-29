@@ -31,7 +31,17 @@ aside {
     justify-content: space-between;
     margin-bottom: 50px;
 }
-
+/*ボタン*/
+.button{
+    font-size: 1.735rem;
+    background: #fff;
+    color:black;
+    border-radius: 5px;
+    padding: 18px 32px;
+}
+.button:hover {
+    background:#808080;
+}
 /*フッター*/
 footer {
     background:#432
