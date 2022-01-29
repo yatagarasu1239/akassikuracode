@@ -64,7 +64,10 @@ font-size: 0.875rem;
     margin-top: 0px;
     list-style: none;
     text-align: center;
+    border-width: medium;
+    border-style: solid;
   }
+
 .logo {
     width: 130px;
     margin-top: 0px;
