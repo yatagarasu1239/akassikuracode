@@ -21,8 +21,12 @@ body {
     background-image: url("images/lord_Rings.jpg");
     height: 270px;
     margin-bottom:40px;
+    text-align: center;
 }
 
+.page-title{
+    color: black;
+}
 
 /*記事部分*/
 article {
