@@ -1,0 +1,76 @@
+@charset "UTF-8";
+/*共通部分*/
+html{
+    font-size: 100%;
+    color: aliceblue;
+}
+body {
+    background-color:rgb(0, 0, 0);
+    font-family: 'Noto Serif JP', serif;
+    margin: 0px;
+}
+.wrapper {
+    max-width: 1200px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ring {
+    background-image: url("images/lord_Rings.jpg");
+    height: 270px;
+    margin-bottom:40px;
+}
+
+
+/*記事部分*/
+article {
+    width: 74%;
+}
+/*サイドバー*/
+aside {
+    width: 22%;
+}
+
+.home-content{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+}
+
+
+/*フッター*/
+footer {
+    background:#432
+    padding: 26px 0;
+    text-align:center;
+}
+
+footer p {
+color: #fff;
+font-size: 0.875rem;
+
+}
+
+.main-nav{
+    font-size:1.25;
+    width: 100px;
+    text-transform: uppercase;
+    border-width: medium;
+    border-style: solid;
+    margin-top: 5px;
+    list-style: none;
+    text-align: center;
+  }
+
+.logo {
+    width: 130px;
+    margin-top: 0px;
+}
+h1 {
+    color: #752100
+}
+p{ 
+    font-size: 20px;
+}
