@@ -24,10 +24,10 @@ body {
     height: 270px;
     margin-bottom:40px;
     text-align: center;
+    padding-top: 135px;
 }
 
 .page-title{
-    margin-top: 135px;
     color: black;
 }
 
