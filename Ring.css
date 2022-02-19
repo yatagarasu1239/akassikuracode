@@ -29,8 +29,8 @@ body {
 .page-title{
     margin-top: 135px;
     font-family:'DotGothic16', sans-serif;
-    color: #ffffff;
- box-shadow: #432;
+    color: black;
+    font-size: 45px;
 }
 
 /*記事部分*/
