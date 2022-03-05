@@ -28,7 +28,6 @@ aside {
 
 .home-content{
     display: flex;
-    justify-content: space-between;
     margin-bottom: 25px;
 }
 /*ボタン*/
@@ -59,6 +58,7 @@ font-size: 0.875rem;
 
 .main-nav{
     font-size:1.25;
+    width: 100px;
     text-transform: uppercase;
     border-width: medium;
     border-style: solid;
