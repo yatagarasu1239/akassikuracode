@@ -44,7 +44,6 @@ aside {
 
 .home-content{
     display: flex;
-    justify-content: space-between;
     margin-bottom: 25px;
 }
 
