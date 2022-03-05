@@ -59,7 +59,6 @@ font-size: 0.875rem;
 
 .main-nav{
     font-size:1.25;
-    width: 100px;
     text-transform: uppercase;
     border-width: medium;
     border-style: solid;
@@ -69,7 +68,6 @@ font-size: 0.875rem;
   }
 
 .logo {
-    width: 130px;
     margin-top: 0px;
 }
 h1 {
