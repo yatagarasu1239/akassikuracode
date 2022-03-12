@@ -58,6 +58,7 @@ font-size: 0.875rem;
 
 .main-nav{
     height: 234px;
+    padding:15px;
     width:130px;
     margin-top: 5px;
     list-style: none;
@@ -65,12 +66,11 @@ font-size: 0.875rem;
     background-image:url("images/menu.png");
     ;
   }
-
+/*
   .main-nav > li{
   margin: 15px 0px 0px 0px;
-  padding:15px;
  }
- 
+ */
 .logo {
     width: 130px;
     margin-top: 0px;
