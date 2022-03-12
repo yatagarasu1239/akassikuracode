@@ -61,15 +61,13 @@ font-size: 0.875rem;
 
 }
 
+
 .main-nav{
-    font-size:1.25;
-    width: 100px;
-    text-transform: uppercase;
-    border-width: medium;
-    border-style: solid;
     margin-top: 5px;
     list-style: none;
     text-align: center;
+    background-image:url("images/menu.png");
+    ;
   }
 
 .logo {
