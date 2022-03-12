@@ -56,6 +56,11 @@ font-size: 0.875rem;
 
 }
 
+.grid {
+    display: grid;
+    gap: ;
+}
+
 .main-nav{
     height: 234px;
     padding:13px;
