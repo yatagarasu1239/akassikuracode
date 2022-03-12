@@ -63,14 +63,20 @@ font-size: 0.875rem;
 
 
 .main-nav{
-    margin-top: 5px;
     height: 234px;
+    padding:13px;
+    width:130px;
+    margin-top: 5px;
     list-style: none;
     text-align: center;
     background-image:url("images/menu.png");
     ;
   }
 
+  .main-nav > li{
+  margin: 13px 0px 0px 0px;
+ }
+ 
 .logo {
     width: 130px;
     margin-top: 0px;
