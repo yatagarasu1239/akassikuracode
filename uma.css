@@ -19,13 +19,16 @@ body {
 #nessi- {
    background-image: url(images/1064429_s.jpg);
    background-size: cover;
+   background-position: 30px 0px;
    height: 90px;
    margin-bottom: 40px;
 }
 #nessi-{
 text-align: center;
+margin: 10px;
 }
 
 .page-title {
 text-align: center;
+font-size: 60px;
 }
