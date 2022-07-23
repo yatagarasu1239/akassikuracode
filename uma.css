@@ -18,4 +18,9 @@ body {
 }
 #nessi- {
    background-image: url(images/1064429_s.jpg);
+   height: 270px;
+   margin-bottom: 40px;
+}
+#nessi-.page-title {
+text-align: center;
 }
