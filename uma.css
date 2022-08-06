@@ -32,3 +32,14 @@ margin: 10px;
 text-align: center;
 font-size: 60px;
 }
+
+footer{
+    background: #432;
+    text-align: center;
+    padding: 26px 0;
+}
+
+footer p{
+ color:#fff;
+ font-size: 0.875rem;   
+}
