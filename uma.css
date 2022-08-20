@@ -45,8 +45,10 @@ footer p{
 
 .main-nav{
     display: flex;
+    justify-content: flex-end;
     color: #fff;
-    font-size: 1.25rem;
+    font-size: 1rem;
     text-transform: uppercase;
     list-style-type: hebrew;
+    margin-top: 5px;
 }
