@@ -50,5 +50,7 @@ footer p{
     font-size: 1rem;
     text-transform: uppercase;
     list-style-type: hebrew;
-    margin-top: 14px;
+}
+.main-nav li{
+    margin-left: 20px;
 }
