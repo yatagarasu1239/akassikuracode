@@ -54,3 +54,18 @@ footer p{
 .main-nav li{
     margin-left: 25px;
 }
+a:link {
+    color: #ffffff;
+}
+
+a:visited {
+    color: #ffffff;
+}
+
+a:hover {
+    color: #444444;
+}
+
+a:active {
+    color: #ffffff;
+}
