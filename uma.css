@@ -50,8 +50,6 @@ footer p{
     font-size: 1rem;
     text-transform: uppercase;
     list-style-type: hebrew;
-    border-width:thin;
-    border-style:solid; 
 }
 .main-nav li{
     margin-left: 25px;
@@ -73,4 +71,6 @@ a:active {
 }
 header{
     background-color:#1e1e1e;
+    border-width:thin;
+    border-bottom: left 1px solid #fff;
 }
