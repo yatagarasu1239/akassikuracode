@@ -72,5 +72,6 @@ a:active {
 header{
     background-color:#1e1e1e;
     border-width:thin;
-    border-bottom: left 1px solid #fff;
+    border-style:solid;
+    border-color:#fff ;
 }
