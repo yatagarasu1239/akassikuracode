@@ -50,6 +50,7 @@ footer p{
     font-size: 1rem;
     text-transform: uppercase;
     list-style-type: hebrew;
+    border-width:thin;
     border-bottom: left 1px solid #fff;
 }
 .main-nav li{
