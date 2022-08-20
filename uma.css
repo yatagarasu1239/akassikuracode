@@ -42,3 +42,10 @@ footer p{
  color:#fff;
  font-size: 0.875rem;   
 }
+
+.main-nav{
+    display: flex;
+    font-size: 1rem;
+    text-transform: uppercase;
+    list-style-type: hebrew;
+}
