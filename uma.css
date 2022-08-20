@@ -46,7 +46,7 @@ footer p{
 .main-nav{
     display: flex;
     color: #fff;
-    font-size: 1rem;
+    font-size: 1.25rem;
     text-transform: uppercase;
     list-style-type: hebrew;
 }
