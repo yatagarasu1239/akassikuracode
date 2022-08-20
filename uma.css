@@ -25,7 +25,7 @@ body {
 }
 #nessi-{
 text-align: center;
-margin: 10px;
+margin: 0px;
 }
 
 .page-title {
@@ -50,6 +50,7 @@ footer p{
     font-size: 1rem;
     text-transform: uppercase;
     list-style-type: hebrew;
+    border: left 1px solid; ;
 }
 .main-nav li{
     margin-left: 25px;
@@ -70,5 +71,5 @@ a:active {
     color: #ffffff;
 }
 header{
-    background-color: #fff;
+    background-color:#1e1e1e;
 }
