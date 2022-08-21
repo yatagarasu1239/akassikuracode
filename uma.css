@@ -89,3 +89,11 @@ article{
 aside{
     width: 25%;
 }
+
+.grid{
+    display: grid;
+    gap: 26px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-top: 6px;
+    margin-bottom: 50px;
+}
