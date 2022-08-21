@@ -97,4 +97,6 @@ aside{
     grid-template-columns: 1fr 1fr 1fr 1fr;
     margin-top: 6px;
     margin-bottom: 50px;
+    border-width: medium;
+    border-color: black;
 }
