@@ -80,6 +80,7 @@ header {
     display: flex;
     justify-content: space-between;
     margin-bottom: 20px;
+    background-color:rgb(208 208 208);
 }
 
 article{
