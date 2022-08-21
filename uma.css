@@ -75,3 +75,17 @@ header {
     border-bottom-style: solid;
     border-bottom-color: #fff;
 }
+
+.main-contents{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+article{
+    width: 75%;
+}
+
+aside{
+    width: 25%;
+}
