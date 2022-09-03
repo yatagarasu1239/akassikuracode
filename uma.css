@@ -101,7 +101,7 @@ aside{
     border-color: black;
 }
 
-img{
+.item>img{
     width: 50px;
 }
 
