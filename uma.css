@@ -53,6 +53,7 @@ footer p{
 }
 .main-nav li{
     margin-left: 25px;
+    
 }
 a:link {
     color: #ffffff;
@@ -92,8 +93,8 @@ aside{
 }
 
 .grid{
-    display: grid;
-    gap: 26px;
+    display: flex;
+    justify-content: space-between;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     margin-top: 6px;
     margin-bottom: 50px;
