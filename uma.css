@@ -131,9 +131,7 @@ aside{
 
 .pagination a,
 .pagination .current{
-    border-radius: 50%;
     padding-top: 4px;
-    display: inline-block;
     width: 36px;
     height: 36px;
     margin: 0 6px;
