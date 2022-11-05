@@ -115,3 +115,31 @@ aside{
 .item{
     color: black;
 }
+
+.pagonation{
+    display: flex;
+    justify-content: center;
+    font-family: ;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.pagination a:hover{
+    background-color: black
+    color#fff;
+}
+
+.pagination a,
+.pagination .current{
+    border-radius: 50%;
+    padding-top: 4px;
+    display: inline-block;
+    width: 36px;
+    height: 36px;
+    margin: 0 6px;
+}
+
+.pagination .current{
+    background-color:#ccc;
+    color: #fff;
+}
