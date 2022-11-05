@@ -9,6 +9,9 @@ body {
     font-family: 'Noto Serif JP', serif;
     margin: 0px;
 }
+ul {
+list-style: :none;
+}
 .wrapper {
     max-width: 1080px;
     margin-top: 0;
