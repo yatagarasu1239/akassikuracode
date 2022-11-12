@@ -87,6 +87,7 @@ header {
     background-color:rgb(238, 238, 238);
 }
 
+
 article{
     width: 75%;
 }
@@ -125,6 +126,7 @@ aside{
     font-family:"Noto Sans JP";
     font-size: 1.5rem;
     text-align: center;
+    list-style: none;
 }
 
 .pagination a:hover{
