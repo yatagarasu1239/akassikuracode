@@ -1,52 +1,72 @@
 @charset "UTF-8";
+
 /*共通部分*/
-html{
+html {
     font-size: 100%;
     color: aliceblue;
 }
+
 body {
-    background-color:rgb(0, 0, 0);
+    background-color: rgb(0, 0, 0);
     font-family: 'Noto Serif JP', serif;
     margin: 0px;
 }
+
 ul {
-list-style: :none;
+    list-style: :none;
 }
+
+.banner-img {
+    width: 120px;
+}
+
+.noa {
+    background-color: darkgray;
+    padding: 5px;
+}
+
+.main {
+    background-color: black;
+}
+
 .wrapper {
-    max-width: 1080px;
+    max-width: 900px;
     margin-top: 0;
     margin-bottom: 0;
+    min-width: 850px;
     margin-left: auto;
     margin-right: auto;
 }
+
 #nessi- {
-   background-image: url(images/1064429_s.jpg);
-   background-size: cover;
-   background-position: 0px -204px;
-   height: 90px;
-   margin-bottom: 40px;
+    background-image: url(images/1064429_s.jpg);
+    background-size: cover;
+    background-position: 0px -204px;
+    height: 90px;
+    margin-bottom: 40px;
 }
-#nessi-{
-text-align: center;
-margin: 0px;
+
+#nessi- {
+    text-align: center;
+    margin: 0px;
 }
 
 .page-title {
-text-align: center;
-font-size: 60px;
+    text-align: center;
+    font-size: 60px;
 }
 
-footer{
+footer {
     background: rgb(0, 0, 0);
     text-align: center;
 }
 
-footer p{
- color:#fff;
- font-size: 0.875rem;   
+footer p {
+    color: #fff;
+    font-size: 0.875rem;
 }
 
-.main-nav{
+.main-nav {
     display: flex;
     justify-content: flex-end;
     color: #fff;
@@ -54,10 +74,12 @@ footer p{
     text-transform: uppercase;
     list-style-type: hebrew;
 }
-.main-nav li{
+
+.main-nav li {
     margin-left: 25px;
-    
+
 }
+
 a:link {
     color: #ffffff;
 }
@@ -67,12 +89,13 @@ a:visited {
 }
 
 a:hover {
-    color: #444444;
+    color: #000000;
 }
 
 a:active {
     color: #ffffff;
 }
+
 header {
     background-color: #1e1e1e;
     border-bottom-width: thin;
@@ -80,65 +103,100 @@ header {
     border-bottom-color: #fff;
 }
 
-.main-contents{
+.main-contents {
     display: flex;
     justify-content: space-between;
     margin-bottom: 20px;
-    background-color:rgb(238, 238, 238);
+    background-color: rgb(238, 238, 238);
 }
 
+.toroi {
+    display: flex;
+    justify-content: space-between;
+}
 
-article{
+article {
     width: 75%;
 }
 
-aside{
+aside {
     width: 25%;
 }
 
 .container {
-    background-color:gray;
-    display:flex;
-    justify-content:space-between;
-    padding:20px;
-  }
-  
-  .banner {
-    background-color: lightgray;
-    width:100%;
-    margin:20px;
-  }
-  
-  .banner-img{
-    width:100%;
-  }
-.item>img{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.banner {
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    margin: 5px;
+    position: relative;
+}
+
+.banner:hover {
+    filter: brightness(150%);
+}
+
+
+.banner-img {
+    width: 100%;
+    height: 148.75px;
+}
+
+.item>img {
     width: 50px;
 }
 
-.item{
+.item {
     color: black;
 }
 
-.pagination{
+.pagination {
     display: flex;
     justify-content: center;
-    font-family:"Noto Sans JP";
+    font-family: "Noto Sans JP";
     font-size: 1.5rem;
     text-align: center;
     list-style: none;
 }
 
-.pagination a:hover{
-    background-color: black
-    color#fff;
+.pagination a:hover {
+    background-color: black color#fff;
 }
 
 .pagination a,
-.pagination .current{
+.pagination .current {
     padding-top: 4px;
     width: 36px;
     height: 36px;
     margin: 0 6px;
 }
 
+.twin {
+    margin: 2px;
+    padding: 2px;
+    display: flex;
+    border-color: #fff;
+    border-width: 3px;
+    border-style: solid;
+    font-size: 20px;
+}
+
+.sunny {
+    margin: 2px;
+}
+
+.imag_icon {
+    width: 120px;
+}
+
+.tag {
+    position: absolute;
+    bottom: 0px;
+    color: white;
+    background-color: rgba(26, 25, 25, 0.7);
+}

@@ -1,0 +1,15 @@
+.banner {
+    position: absolute;
+}
+
+.container {
+    position: relative;
+    width: 209px;
+}
+
+.text {
+    position: absolute;
+    bottom: 0px;
+    color: white;
+    background-color: rgba(26, 25, 25, 0.7);
+}
