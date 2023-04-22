@@ -54,6 +54,7 @@ ul {
 .page-title {
     text-align: center;
     font-size: 60px;
+    text-decoration: none;
 }
 
 footer {
@@ -82,18 +83,26 @@ footer p {
 
 a:link {
     color: #ffffff;
+    text-decoration: none;
+
 }
 
 a:visited {
     color: #ffffff;
+    text-decoration: none;
+
 }
 
 a:hover {
     color: #000000;
+    text-decoration: none;
+
 }
 
 a:active {
     color: #ffffff;
+    text-decoration: none;
+
 }
 
 header {
@@ -199,4 +208,23 @@ aside {
     bottom: 0px;
     color: white;
     background-color: rgba(26, 25, 25, 0.7);
+}
+
+.popular-contents {
+    padding: 3px;
+    margin: 5px;
+
+    bottom: 5px;
+    border: 1px solid darkgray;
+    outline: 2px solid darkgray;
+    outline-offset: 4px;
+    border-radius: 6px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+h1 {
+    text-align: center;
 }
